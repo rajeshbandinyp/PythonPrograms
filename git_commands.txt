@@ -1,0 +1,3 @@
+C:/Users/braje/test/.git/
+
+git remote add origin "https://github.com/rajeshbandinyp/Python-Programs.git"

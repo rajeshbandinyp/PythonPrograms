@@ -1,0 +1,10 @@
+
+
+https://github.com/rajeshbandinyp/pythonprg.git
+
+https://github.com/rajeshbandinyp/PythonPrograms.git
+
+
+git branch -M master
+git remote add origin https://github.com/rajeshbandinyp/PythonPrograms.git
+git push -u origin master
